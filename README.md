@@ -1,16 +1,32 @@
-## Hi there 👋
+# Oii, eu sou a Lívia! 👩‍💻✨
 
-<!--
-**Livizs/Livizs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Ciência da Computação** e apaixonada por tecnologia, programação e criação de projetos criativos.
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Cursando Ciência da Computação  
+🌱 Sempre aprendendo coisas novas  
+💻 Gosto de programação e desenvolvimento  
+🎮 Interesse em desenvolvimento de jogos  
+🔐 Interesse em Segurança da Informação  
+🚀 Em busca do meu primeiro emprego na área  
+
+## Tecnologias
+
+- HTML  
+- CSS  
+- JavaScript  
+- Linguagem C  
+
+## Objetivo
+
+Quero crescer na área de tecnologia, adquirindo experiência e desenvolvendo projetos que façam a diferença.
+
+## Contato
+
+📌 GitHub: https://github.com/Livizs  
+📌 LinkedIn: https://www.linkedin.com/in/lívia-vilela-334999293/
+
+---
+
+✨ Obrigada por visitar meu perfil!
