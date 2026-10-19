@@ -1,4 +1,4 @@
-# Oii, eu sou a Lívia! 👩‍💻✨
+# Oie, eu sou a Lívia Vilela! 👩‍💻✨
 
 Sou estudante de **Ciência da Computação** e apaixonada por tecnologia, programação e criação de projetos criativos.
 
