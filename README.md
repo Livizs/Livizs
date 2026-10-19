@@ -9,6 +9,7 @@ Sou estudante de **Ciência da Computação** e apaixonada por tecnologia, progr
 💻 Gosto de programação e desenvolvimento  
 🎮 Interesse em desenvolvimento de jogos  
 🔐 Interesse em bancos de dados
+
 🚀 Em busca do meu primeiro emprego na área  
 
 ## Tecnologias
