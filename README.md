@@ -13,8 +13,9 @@ Sou estudante de **Ciência da Computação** e apaixonada por tecnologia, progr
 
 ## Tecnologias
   
-- JavaScript  
-- Linguagem C  
+- JavaScript
+- Linguagem C
+- Python (em desenvolvimento)  
 
 ## Objetivo
 
