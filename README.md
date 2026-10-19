@@ -8,13 +8,11 @@ Sou estudante de **Ciência da Computação** e apaixonada por tecnologia, progr
 🌱 Sempre aprendendo coisas novas  
 💻 Gosto de programação e desenvolvimento  
 🎮 Interesse em desenvolvimento de jogos  
-🔐 Interesse em Segurança da Informação  
+🔐 Interesse em bancos de dados
 🚀 Em busca do meu primeiro emprego na área  
 
 ## Tecnologias
-
-- HTML  
-- CSS  
+  
 - JavaScript  
 - Linguagem C  
 
