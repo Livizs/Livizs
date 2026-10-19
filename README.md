@@ -4,12 +4,12 @@ Sou estudante de **Ciência da Computação** e apaixonada por tecnologia, progr
 
 ## Sobre mim
 
-🎓 Cursando Ciência da Computação;  
-🌱 Sempre aprendendo coisas novas;  
-💻 Gosto de programação e desenvolvimento;  
-🎮 Interesse em desenvolvimento de jogos;  
-🔐 Interesse em bancos de dados;             
-🚀 Em busca do meu primeiro emprego na área;  
+🎓 Cursando Ciência da Computação;
+🌱 Sempre buscando aprender coisas novas;
+💻 Interesse em programação e desenvolvimento de software;
+🎮 Interesse em desenvolvimento de jogos;
+🔐 Interesse em bancos de dados;
+🚀 Em busca da minha primeira oportunidade profissional na área de tecnologia.
 
 ## Tecnologias
   
