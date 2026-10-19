@@ -22,8 +22,7 @@ Sou estudante de **Ciência da Computação** e apaixonada por tecnologia, progr
 Quero crescer na área de tecnologia, adquirindo experiência e desenvolvendo projetos que façam a diferença.
 
 ## Contato
-
-📌 GitHub: https://github.com/Livizs  
+  
 📌 LinkedIn: https://www.linkedin.com/in/lívia-vilela-334999293/
 
 ---
